@@ -1,0 +1,8 @@
+{
+  "name": "type-def",
+  "version": "1.0.0",
+  "main": "index.d.ts",
+  "repository": "git@github.com:franck-romano/type-def.git",
+  "author": "franck.romano <franck.romano@protonmail.com>",
+  "license": "MIT"
+}
